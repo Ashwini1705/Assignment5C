@@ -1,0 +1,20 @@
+.repo-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.repoWrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+.RightSection{
+    margin: 20px 20px;
+}
+.repoWrapper{
+    background-color: lightgray;
+}
+.title{
+    font-size:20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
